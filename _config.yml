@@ -1,0 +1,14 @@
+layout_spectrum: 0.22916725068353117
+typography_spectrum: 0.9312820676714182
+color:
+  brandStrength: 0.9407282148022205
+  lightness: 0.43066933285444975
+  saturation: 0.13185630948282778
+  rhythmicContrast: 0.3955603432841599
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: reubenlangdon.com
